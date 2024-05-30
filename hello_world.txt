@@ -1,3 +1,5 @@
 Hello World!
 
 This is my GitHub exercise for Data Engineering course in Universitas Islam Indonesia
+
+The material includes feature engineerings, such as normalization, scaling, etc.
